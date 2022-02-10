@@ -6,8 +6,17 @@ and then search the corresponding scanline
 in the second image for a matching window. 
 The output should be a disparity map (third image) with respect to the first view.
 <br>
-<img src="data/tsukuba1.png" width="70%" height="70%"/> <img src="data/tsukuba2.png" width="70%" height="70%" /> <img src="data/tsukuba_gt.png" width="70%" height="70%" />
-
+<div class="row">
+  <div class="column">
+    <img src="data/tsukuba1.png" width="70%" height="70%"/>
+</div>
+<div class="column">
+<img src="data/tsukuba2.png" width="70%" height="70%" /> 
+</div>
+<div class="column">
+<img src="data/tsukuba_gt.png" width="70%" height="70%" />
+</div>
+</div>
 The following pictures show the ground-truth disparity map for different disparity ranges; 
 normalized correlation is used for the first row of images,
 sum of squared differences is used for the second row of images.
