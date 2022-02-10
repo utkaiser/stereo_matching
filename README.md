@@ -7,7 +7,7 @@ in the second image for a matching window.
 The output should be a disparity map (third image) with respect to the first view.
 <br> <br> <br> 
 <img src="data/tsukuba1.png" width="30%" height="30%"/> <img src="data/tsukuba2.png" width="30%" height="30%" /> <img src="data/tsukuba_gt.png" width="30%" height="30%" />
-
+<br> <br> <br> 
 The following pictures show the ground-truth disparity map for different disparity ranges; 
 normalized correlation is used for the first row of images,
 sum of squared differences is used for the second row of images.
