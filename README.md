@@ -8,13 +8,13 @@ The output should be a disparity map (third image) with respect to the first vie
 <br>
 <div class="row">
   <div class="column">
-    <img src="data/tsukuba1.png" width="70%" height="70%"/>
+    <img src="data/tsukuba1.png" width="20%" height="20%"/>
 </div>
 <div class="column">
-<img src="data/tsukuba2.png" width="70%" height="70%" /> 
+<img src="data/tsukuba2.png" width="20%" height="20%" /> 
 </div>
 <div class="column">
-<img src="data/tsukuba_gt.png" width="70%" height="70%" />
+<img src="data/tsukuba_gt.png" width="20%" height="20%" />
 </div>
 </div>
 The following pictures show the ground-truth disparity map for different disparity ranges; 
