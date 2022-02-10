@@ -5,21 +5,15 @@ To get the ground-truth disparity map, pick a window around each pixel in the fi
 and then search the corresponding scanline 
 in the second image for a matching window. 
 The output should be a disparity map (third image) with respect to the first view.
-<br>
-<div class="row">
-  <div class="column">
-    <img src="data/tsukuba1.png" width="20%" height="20%"/>
-</div>
-<div class="column">
+
+<img src="data/tsukuba1.png" width="20%" height="20%"/>
 <img src="data/tsukuba2.png" width="20%" height="20%" /> 
-</div>
-<div class="column">
 <img src="data/tsukuba_gt.png" width="20%" height="20%" />
-</div>
-</div>
+
 The following pictures show the ground-truth disparity map for different disparity ranges; 
 normalized correlation is used for the first row of images,
 sum of squared differences is used for the second row of images.
 <br> 
-![disp_nco](data/disparity_range_nco.png)
+![disp_nco](data/disparity_range_nco.png ) 
 ![disp_ssd](data/disparity_range_ssd.png)
+
