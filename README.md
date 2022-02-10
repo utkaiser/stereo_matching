@@ -12,6 +12,6 @@ The following pictures show the ground-truth disparity map for different dispari
 normalized correlation is used for the first row of images,
 sum of squared differences is used for the second row of images.
 <br> <br> <br> 
-![disp_nco](data/disparity_range_nco.png ) 
-![disp_ssd](data/disparity_range_ssd.png)
+<img src="data/disparity_range_nco.png" width="80%" height="80%"/>
+<img src="data/disparity_range_ssd.png" width="80%" height="80%"/>
 
