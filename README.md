@@ -6,9 +6,7 @@ and then search the corresponding scanline
 in the second image for a matching window. 
 The output should be a disparity map (third image) with respect to the first view.
 
-<img src="data/tsukuba1.png" width="20%" height="20%"/>
-<img src="data/tsukuba2.png" width="20%" height="20%" /> 
-<img src="data/tsukuba_gt.png" width="20%" height="20%" />
+<img src="data/tsukuba1.png" width="20%" height="20%"/> <img src="data/tsukuba2.png" width="20%" height="20%" /> <img src="data/tsukuba_gt.png" width="20%" height="20%" />
 
 The following pictures show the ground-truth disparity map for different disparity ranges; 
 normalized correlation is used for the first row of images,
